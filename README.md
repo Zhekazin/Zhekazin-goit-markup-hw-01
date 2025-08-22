@@ -1,2 +1,2 @@
-# Zhekazin-goit-markup-hw-01
+# goit-markup-hw-01
 WebStudio-5.0
